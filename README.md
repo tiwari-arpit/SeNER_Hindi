@@ -1,5 +1,5 @@
 # SeNER_Hindi: Small Language Model Driven Named Entity Recognition for Hindi
-
+[Paper](https://arxiv.org/pdf/2502.07286) [Dataset](https://huggingface.co/datasets/ai4bharat/naamapadam)
 ## Overview
 SeNER_Hindi is a Named Entity Recognition (NER) system designed for the Hindi language. It leverages a Small Language Model (SLM) to accurately identify entities such as persons, locations, and organizations from Hindi text. The project aims to enhance Natural Language Understanding (NLU) capabilities for Hindi, supporting downstream NLP applications like machine translation, sentiment analysis, and information retrieval.
 
