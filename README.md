@@ -25,17 +25,18 @@ SeNER_Hindi is based on the **SeNER** model, a lightweight span-based NER method
 2. Incorporate benchmark datasets like HiNER to reduce bias.
 3. Use LoRA with PEFT for efficient fine-tuning.
 
+## Acknowledgments
+Special thanks to the authors of the SeNER paper and the Hugging Face community for their contributions to open-source NLP tools.
+
 ## Installation and Usage
 ### Clone the Repository
+```bash
 1. Clone this repository to your local machine:
 git clone https://github.com/your-username/SeNER_Hindi.git
 cd SeNER_Hindi
 
-3. Install the required dependencies using requirements.txt:
+2. Install the required dependencies using requirements.txt:
 pip install -r requirements.txt
 
 3. Execute the main script to start the NER system:
 python main.py
-
-## Acknowledgments
-Special thanks to the authors of the SeNER paper and the Hugging Face community for their contributions to open-source NLP tools.
