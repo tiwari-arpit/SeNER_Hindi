@@ -25,8 +25,17 @@ SeNER_Hindi is based on the **SeNER** model, a lightweight span-based NER method
 2. Incorporate benchmark datasets like HiNER to reduce bias.
 3. Use LoRA with PEFT for efficient fine-tuning.
 
-## Demo
-A user-friendly Gradio interface allows users to input Hindi text and receive NER-tagged output with highlighted entities. 
+## Installation and Usage
+### Clone the Repository
+1. Clone this repository to your local machine:
+```bash
+git clone https://github.com/your-username/SeNER_Hindi.git
+cd SeNER_Hindi
+2. Install the required dependencies using requirements.txt:
+```bash
+pip install -r requirements.txt
+3. Execute the main script to start the NER system:
+python main.py
 
 ## Acknowledgments
 Special thanks to the authors of the SeNER paper and the Hugging Face community for their contributions to open-source NLP tools.
