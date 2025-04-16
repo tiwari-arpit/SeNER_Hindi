@@ -32,7 +32,7 @@ Special thanks to the authors of the SeNER paper and the Hugging Face community 
 ### Clone the Repository
 ```bash
 1. Clone this repository to your local machine:
-git clone https://github.com/your-username/SeNER_Hindi.git
+https://github.com/tiwari-arpit/SeNER_Hindi.git
 cd SeNER_Hindi
 
 2. Install the required dependencies using requirements.txt:
