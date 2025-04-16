@@ -13,7 +13,7 @@ SeNER_Hindi is based on the **SeNER** model, a lightweight span-based NER method
 1. **Input Encoding**: Uses a pre-trained language model (PLM) with arrow attention.
 2. **Biaffine Model**: Generates span representations for candidate entities.
 3. **BiSPA**: Compresses spans and models interactions horizontally and vertically.
-4. **Training**: Trained on the Naamapadam dataset using binary cross-entropy loss, with Whole Word Masking (WWM) and Low-Rank Adaptation (LoRA) for efficiency.
+4. **Training**: Trained on the Naamapadam dataset using binary cross-entropy loss.
 
 ## Results
 - Trained on 10,000 samples from the Naamapadam dataset (Google Colab, T4 GPU).
