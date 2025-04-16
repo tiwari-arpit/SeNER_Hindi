@@ -28,12 +28,12 @@ SeNER_Hindi is based on the **SeNER** model, a lightweight span-based NER method
 ## Installation and Usage
 ### Clone the Repository
 1. Clone this repository to your local machine:
-```bash
 git clone https://github.com/your-username/SeNER_Hindi.git
 cd SeNER_Hindi
-2. Install the required dependencies using requirements.txt:
-```bash
+
+3. Install the required dependencies using requirements.txt:
 pip install -r requirements.txt
+
 3. Execute the main script to start the NER system:
 python main.py
 
